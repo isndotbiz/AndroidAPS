@@ -30,3 +30,7 @@ wear/pumpcontrol/*
 .kotlin/*
 /*.log
 *.preferences_pb
+
+# Local build artifacts
+dist/
+*.apk
